@@ -2,7 +2,7 @@
 # straplocked/mybabynotes-hassio-addons repo is a publish target that CI
 # stamps from here on tagged releases (see .github/workflows/release.yml).
 name: MyBabyNotes
-version: "0.0.0-dev" # stamped with the release tag by CI; local sideloads build as-is
+version: "1.0.0"
 slug: mybabynotes
 description: Two-parent baby tracker — log feeds, diapers, sleep and shifts together
 url: https://github.com/straplocked/mybabynotes
